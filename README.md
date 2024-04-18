@@ -7,7 +7,7 @@
 
 <b>Back-End:</b> PHP,MySql
 
-/b>
+
 
 
 <b>Software Used:</b>WAMP
